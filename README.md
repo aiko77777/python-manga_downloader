@@ -4,3 +4,7 @@
 log:
 
 2024/06/26:新增GUI介面及其功能
+
+2024/06/28:功能完善&排版
+![image](https://github.com/aiko77777/python-manga_downloader/assets/139691979/430ffed4-9f32-4783-b87b-b193ec3c8e61)
+
